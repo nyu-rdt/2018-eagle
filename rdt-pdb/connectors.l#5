@@ -121,22 +121,22 @@
 <wire x1="-10.5" y1="2.5" x2="-10.5" y2="-2.5" width="0.127" layer="21"/>
 <wire x1="-10.5" y1="-2.5" x2="-8" y2="-5" width="0.127" layer="21"/>
 <text x="-10.16" y="6.35" size="1.27" layer="21">&gt;NAME</text>
-<pad name="P$1" x="-5.45" y="3.875" drill="0.6"/>
-<pad name="P$2" x="-2.71" y="2.74" drill="0.6"/>
-<pad name="P$3" x="-1.575" y="0" drill="0.6"/>
-<pad name="P$4" x="-2.71" y="-2.74" drill="0.6"/>
-<pad name="P$5" x="-5.45" y="-3.875" drill="0.6"/>
-<pad name="P$6" x="-8.19" y="-2.74" drill="0.6"/>
-<pad name="P$7" x="-9.325" y="0" drill="0.6"/>
-<pad name="P$8" x="-8.19" y="2.74" drill="0.6"/>
-<pad name="P$9" x="5.45" y="3.875" drill="0.6"/>
-<pad name="P$10" x="8.19" y="2.74" drill="0.6"/>
-<pad name="P$11" x="9.325" y="0" drill="0.6"/>
-<pad name="P$12" x="8.19" y="-2.74" drill="0.6"/>
-<pad name="P$13" x="5.45" y="-3.875" drill="0.6"/>
-<pad name="P$14" x="2.71" y="-2.74" drill="0.6"/>
-<pad name="P$15" x="1.575" y="0" drill="0.6"/>
-<pad name="P$16" x="2.71" y="2.74" drill="0.6"/>
+<pad name="P$1" x="-5.45" y="3.875" drill="1"/>
+<pad name="P$2" x="-2.71" y="2.74" drill="1"/>
+<pad name="P$3" x="-1.575" y="0" drill="1"/>
+<pad name="P$4" x="-2.71" y="-2.74" drill="1"/>
+<pad name="P$5" x="-5.45" y="-3.875" drill="1"/>
+<pad name="P$6" x="-8.19" y="-2.74" drill="1"/>
+<pad name="P$7" x="-9.325" y="0" drill="1"/>
+<pad name="P$8" x="-8.19" y="2.74" drill="1"/>
+<pad name="P$9" x="5.45" y="3.875" drill="1"/>
+<pad name="P$10" x="8.19" y="2.74" drill="1"/>
+<pad name="P$11" x="9.325" y="0" drill="1"/>
+<pad name="P$12" x="8.19" y="-2.74" drill="1"/>
+<pad name="P$13" x="5.45" y="-3.875" drill="1"/>
+<pad name="P$14" x="2.71" y="-2.74" drill="1"/>
+<pad name="P$15" x="1.575" y="0" drill="1"/>
+<pad name="P$16" x="2.71" y="2.74" drill="1"/>
 </package>
 <package name="XT-150">
 <pad name="NEG" x="-6.5" y="0" drill="7.5" diameter="11"/>
